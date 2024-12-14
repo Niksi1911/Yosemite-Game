@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Nikola\source\repos\Sfml tuto\Sfml tuto\main.cpp(358,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  93 of 348 functions (26.7%) were compiled, the rest were copied from previous compilation.
+    64 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sfml tuto.vcxproj -> C:\Users\Nikola\source\repos\Sfml tuto\Release\SFML Tutorial.exe
